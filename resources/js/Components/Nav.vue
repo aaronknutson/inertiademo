@@ -14,6 +14,9 @@
           >Settings</NavLink
         >
       </li>
+      <li>
+        <NavLink href="/logout" as="button" method="post">Logout</NavLink>
+      </li>
     </ul>
   </nav>
 </template>

@@ -10,9 +10,11 @@
         "production": "mix --production"
     },
     "devDependencies": {
+        "@types/lodash": "^4.14.181",
         "@vue/compiler-sfc": "^3.2.31",
         "autoprefixer": "^10.4.4",
         "axios": "^0.25",
+        "highlight.js": "^11.5.0",
         "laravel-mix": "^6.0.6",
         "lodash": "^4.17.19",
         "postcss": "^8.4.12",
